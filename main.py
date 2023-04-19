@@ -32,6 +32,18 @@ for i in range(n_samples):
     # Evaluate the performance of the model
     accuracy = accuracy_score(y_test, y_pred)
     accuracies.append(accuracy)
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    #Arhanjit Sodhi
 
     print(f"Sample {i + 1}: Accuracy = {accuracy}")
     print("Best parameters: ", model.get_params())
