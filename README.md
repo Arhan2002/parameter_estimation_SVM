@@ -34,3 +34,6 @@ Sample 9: Accuracy = 0.8703703703703703 Best parameters: {'break_ties': False, '
 
 Sample 10: Accuracy = 0.8148148148148148 Best parameters: {'break_ties': False, 'cache_size': 200, 'class_weight': None, 'coef0': 0.0, 'decision_function_shape': 'ovr', 'degree': 3, 'gamma': 'scale', 'kernel': 'rbf', 'max_iter': 1000, 'nu': 0.5, 'probability': False, 'random_state': None, 'shrinking': True, 'tol': 0.001, 'verbose': False}
 
+
+
+![image](https://user-images.githubusercontent.com/91751860/233149250-5bde3c63-4a9e-4a96-acac-75da539aa53b.png)
